@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: a research paper on private property, common
   property, and property rights.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-467j-property-rights-in-transition-spring-2005/0d7655fbad4fb95950fc146b875c4c82_gv_11467finlpapr.pdf
+file: /media/courses/11-467j-property-rights-in-transition-spring-2005/0d7655fbad4fb95950fc146b875c4c82_gv_11467finlpapr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: The Private Property-Common Property Dichotomy Is There a Middle Ground in
   the Property Rights Theory?
