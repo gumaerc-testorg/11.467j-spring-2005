@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ab0f0114-9754-91bd-85f0-33115845cf86
 resourcetype: Document
 title: 'Property Rights and Transitional Justice: Restitution in Hungary and East
   Germany'

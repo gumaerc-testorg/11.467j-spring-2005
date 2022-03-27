@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ab0f0114-9754-91bd-85f0-33115845cf86
 resourcetype: Document
 title: The Private Property-Common Property Dichotomy Is There a Middle Ground in
   the Property Rights Theory?
