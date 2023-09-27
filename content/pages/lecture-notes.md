@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture questions meant to prepare the student
+  for the class discussions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: bb5c14b6-21d6-3ea0-1a9b-601e2b84c421
 ---
 
-The lecture questions are meant to prepare the student for the class discussions, and follow from the [readings]({{< baseurl >}}/pages/readings).
+The lecture questions are meant to prepare the student for the class discussions, and follow from the {{% resource_link eab642f0-ded5-10fd-e72b-0d18ce30e840 "readings" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
