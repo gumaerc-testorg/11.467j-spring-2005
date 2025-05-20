@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a research paper on private property, common
   property, and property rights.'
-file: /ol-ocw-studio-app/courses/11-467j-property-rights-in-transition-spring-2005/0d7655fbad4fb95950fc146b875c4c82_gv_11467finlpapr.pdf
+file: /courses/11-467j-property-rights-in-transition-spring-2005/0d7655fbad4fb95950fc146b875c4c82_gv_11467finlpapr.pdf
 file_size: 94861
 file_type: application/pdf
 learning_resource_types:
