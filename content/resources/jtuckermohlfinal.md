@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a research paper on restitution programs in
   different countries.'
-file: /courses/11-467j-property-rights-in-transition-spring-2005/a3e91278d0d34f61607e95ab3390dc72_jtuckermohlfinal.pdf
+file: /ol-ocw-studio-app/courses/11-467j-property-rights-in-transition-spring-2005/a3e91278d0d34f61607e95ab3390dc72_jtuckermohlfinal.pdf
 file_size: 207537
 file_type: application/pdf
 learning_resource_types:
